@@ -160,6 +160,7 @@ button:hover{
         top: -50px;
         border-top-right-radius: 0;
         border-bottom-left-radius: 20px;
+        height: 480px;
     }
     .right-side h5{
         padding-top: 37px;
